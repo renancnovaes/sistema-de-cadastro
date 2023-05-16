@@ -3,7 +3,7 @@
 
 > Status do projeto: Em desenvolvimento
 
-Requisitos para rodar esse projeto na sua máquina:
+Requisitos para rodar esse projeto na sua máquina!
 ```
 node app.js
 ```
